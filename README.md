@@ -21,3 +21,11 @@ This will also run the site and open up a local tunnel url for use.
 This script will run the unit tests.
 
 	npm test
+
+## lint
+
+This script will the code using the .eslintrc.json file.
+
+	npm run lint
+
+
