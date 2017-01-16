@@ -27,5 +27,10 @@ This script will run the unit tests.
 This script will the code using the .eslintrc.json file.
 
 	npm run lint
+	
+	
+	
+##hard coded data
+can be reached at /users 
 
 
