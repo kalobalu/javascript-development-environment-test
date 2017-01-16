@@ -38,4 +38,11 @@ Generate mock data using faker.
 	
 	npm run generate-mock-data
 
+##npm run start-mockapi
+it calls json-server --watch src/api/db.json --port 3001
+
+	npm run start-mockapi
+
+
+
 
