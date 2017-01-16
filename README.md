@@ -33,4 +33,9 @@ This script will the code using the .eslintrc.json file.
 ##hard coded data
 can be reached at /users 
 
+##generate-mock-data
+Generate mock data using faker.
+	
+	npm run generate-mock-data
+
 
